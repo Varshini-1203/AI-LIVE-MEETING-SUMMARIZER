@@ -1,7 +1,0 @@
-streamlit
-openai-whisper
-transformers
-torch
-pydub
-SpeechRecognition
-pandas
